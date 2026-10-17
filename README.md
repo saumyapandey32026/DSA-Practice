@@ -4,9 +4,11 @@ Welcome to my repository dedicated to tracking my Data Structures and Algorithms
 
 ## 📊 Coding Profiles
 
-PlatformProfile Link
 ****LeetCode****
 [LeetCode Profile](https://leetcode.com/u/Saumya-Pandey-2026/)
+
+****NeetCode****
+[NeetCode Profile](https://neetcode.io/user/SpectralZabrak190)
 
 ### 📁 Repository Structure
 
