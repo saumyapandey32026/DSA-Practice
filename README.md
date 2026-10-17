@@ -12,9 +12,9 @@ PlatformProfile Link
 
 The solutions are automatically structured by the extension based on the difficulty and problem tags: 
 
-* **Easy/** — Quick warm-ups and foundational concepts.
-* **Medium/** — Core algorithm practices, optimization, and edge cases.
-* **Hard/** — Complex algorithmic puzzles.
+* **Easy** — Quick warm-ups and foundational concepts.
+* **Medium** — Core algorithm practices, optimization, and edge cases.
+* **Hard** — Complex algorithmic puzzles.
 
 Each problem folder contains: 
 
