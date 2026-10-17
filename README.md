@@ -39,4 +39,11 @@ Each problem folder contains: 
 * [ ] Graphs
 * [ ] Dynamic Programming
 
+### 📅 1-Year Coding Challenge 🎯
+
+**Started on:** October 17, 2026 (Starting with 0 questions solved) 🚀 
+
+*"Let's see how this profile [LeetCode Profile](https://leetcode.com/u/Saumya-Pandey-2026/) transforms exactly one year from now on **October 17, 2027**. Tracking the journey from 0 questions to becoming a more consistent and better problem solver everyday!"* 🌱
+
 *Happy Coding! 💻 Let's keep consistent.*
+
