@@ -49,3 +49,15 @@ Each problem folder contains: 
 
 *Happy Coding! 💻 Let's keep consistent.*
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/saumyapandey32026/DSA_LeetCode-Practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/saumyapandey32026/DSA_LeetCode-Practice/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
